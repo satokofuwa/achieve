@@ -1,0 +1,40 @@
+.contact tr{
+  height:7rem;
+}
+.contact th{
+width: 150px;
+background-color: #fff;
+margin-right: 0;
+text-align: right;
+}
+.contact td{
+  padding-left: 10px;
+}
+input[type="text"],input[type="email"]{
+  width:480px;
+}
+textarea{
+  width:480px;
+}
+
+input[type="submit"]{
+  background:#008B8B;
+  border:none;
+  color:white;
+  padding:10px 10px;
+  text-align: center;
+  font-size:28px;
+  display:block;
+  margin:0 auto;
+}
+
+input[type="submit"]:hover{
+  opacity: 0.6;
+}
+
+.side_menu .point{
+  background-color: #FCECEC;
+}
+.side_menu .point a{
+  color: #4D4D4D;
+}
