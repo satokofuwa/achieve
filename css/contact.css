@@ -16,16 +16,17 @@ input[type="text"],input[type="email"]{
 textarea{
   width:480px;
 }
+.button_wrapper{
+  text-align: center;
+  margin:30px 0;
+}
 
 input[type="submit"]{
   background:#008B8B;
   border:none;
   color:white;
   padding:10px 10px;
-  text-align: center;
-  font-size:28px;
-  display:block;
-  margin:0 auto;
+  font-size:3rem;
 }
 
 input[type="submit"]:hover{
